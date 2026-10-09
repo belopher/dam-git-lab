@@ -1,3 +1,9 @@
-# Soy un titulo
+# DAM Git Lab
 
-## Soy un subtitulo
+## Descripción
+
+Repositorio de prácticas de Git para Desarrollo de Aplicaciones Multiplataforma.
+
+## Autor
+
+Besay Lopez Hernandez
